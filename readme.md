@@ -1,5 +1,5 @@
 ## 🏆 Dacon 주식 종가 예측 경진대회 - 1st Place Solution
-![Python](https://img.shields.io/badge/Python-3.8-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Success-green)
 
 ## Introduction
